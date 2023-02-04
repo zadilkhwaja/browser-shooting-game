@@ -1,1 +1,1 @@
-# browser-shooting-game
+# Arcade-style Defence Shooting Game
